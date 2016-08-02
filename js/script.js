@@ -64,6 +64,7 @@ var switchMenuToActive = function () {
 document.addEventListener("DOMContentLoaded", function (event) {
   
 // TODO: STEP 0: Look over the code from 
+
 // *** start *** 
 // to 
 // *** finish *** 
